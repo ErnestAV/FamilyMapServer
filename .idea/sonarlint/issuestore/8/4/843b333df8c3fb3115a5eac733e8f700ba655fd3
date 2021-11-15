@@ -1,0 +1,4 @@
+
+’
+java:S1130i"pRemove the declaration of thrown exception 'dao.DataAccessException', as it cannot be thrown from method's body.(ÝÆ¹óûÿÿÿÿ8æÏÝ¿Î/
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ùý³íüÿÿÿÿ8èÏÝ¿Î/

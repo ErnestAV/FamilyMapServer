@@ -1,0 +1,10 @@
+
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(–¢ò¬ıÿÿÿÿ8Ùä„úÍ/
+]	java:S125I"<This block of commented-out lines of code should be removed.(„œÿıúÿÿÿÿ8ìä„úÍ/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(¥õ¯øÿÿÿÿÿ8íä„úÍ/
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(Ñ‹¸¶8îä„úÍ/
+T	java:S106e"9Replace this use of System.out or System.err by a logger.(¼½ùB8å„úÍ/
+2
+java:S1700""Rename field "server"(¦ºËÁ8—å„úÍ/
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(°Ñâõ8˜å„úÍ/

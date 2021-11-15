@@ -1,0 +1,11 @@
+
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+I
+java:S1068".Remove this unused "eventsList" private field.(È®ÿ÷ùÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(È®ÿ÷ùÿÿÿÿ
+b
+java:S1192‡"FDefine a constant instead of duplicating this literal "Error" 3 times.(ûüü†þÿÿÿÿ
+
+java:S4165K"dRemove this useless assignment; "mother" already holds the assigned value along all execution paths.(ÏÞÛÀÿÿÿÿÿ

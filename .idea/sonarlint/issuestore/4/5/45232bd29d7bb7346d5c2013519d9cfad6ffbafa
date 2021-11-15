@@ -1,0 +1,7 @@
+
+T
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ8‡¶ÂôÎ/
+ƒ
+java:S1488="aImmediately return this expression instead of assigning it to the temporary variable "authToken".(’·›ÿÿÿÿÿ8ØÃôÎ/
+†
+java:S1488W"dImmediately return this expression instead of assigning it to the temporary variable "newAuthToken".(¯·õ¤ùÿÿÿÿ8è•ÉôÎ/
